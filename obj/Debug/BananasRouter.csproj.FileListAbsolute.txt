@@ -1,6 +1,0 @@
-E:\GoshKO\BananasRouter\BananasRouter\bin\Debug\BananasRouter.exe.config
-E:\GoshKO\BananasRouter\BananasRouter\bin\Debug\BananasRouter.exe
-E:\GoshKO\BananasRouter\BananasRouter\bin\Debug\BananasRouter.pdb
-E:\GoshKO\BananasRouter\BananasRouter\obj\Debug\BananasRouter.csprojResolveAssemblyReference.cache
-E:\GoshKO\BananasRouter\BananasRouter\obj\Debug\BananasRouter.exe
-E:\GoshKO\BananasRouter\BananasRouter\obj\Debug\BananasRouter.pdb
