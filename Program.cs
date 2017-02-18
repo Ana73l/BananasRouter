@@ -20,7 +20,6 @@ namespace BananasRouter
             sr.Close();
             response.Close();
 
-            System.IO.File.WriteAllText("text.txt", result);
             return result;
         }
 
@@ -30,6 +29,7 @@ namespace BananasRouter
             int index = int.Parse(Console.ReadLine());
 
             Console.WriteLine(GetHtml(content, index));
+            System.IO.File.WriteAllText("text.txt", result);
 
             Console.ReadKey();
         }
