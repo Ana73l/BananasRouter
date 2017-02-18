@@ -28,8 +28,7 @@ namespace BananasRouter
             string content = Console.ReadLine();
             int index = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(GetHtml(content, index));
-            System.IO.File.WriteAllText("text.txt", result);
+            System.IO.File.WriteAllText("text.txt", GetHtml(content, index));
 
             Console.ReadKey();
         }
